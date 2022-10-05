@@ -11,7 +11,7 @@
             <input class="btn-voltar" type="image" src="../imagens/voltar.png">
         </form>
 
-        <table border=1>
+        <table border=1 class="tabela">
             <thead>
                 <tr>
                     <th>ID</th>

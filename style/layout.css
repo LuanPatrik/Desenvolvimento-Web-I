@@ -1,0 +1,10 @@
+.banner img{
+    display: flex;
+    width: 100%;
+    max-height: 400px;
+}
+
+.texto{
+    font-size: 120%;
+    align-items: 'center';
+}

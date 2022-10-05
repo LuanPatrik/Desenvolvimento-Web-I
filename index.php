@@ -16,12 +16,11 @@
             <li><a href="./index.php">Home</a></li>
             <li><a href="./FormVeiculo/listagem.php">Veículos</a></li>
             <li><a href="./FormCliente/listagemCliente.php">Clientes</a></li>
+            <li><a href="./layout/layout.php">Layout</a></li>
         </ul>
     </div>  
 </header>
 <body>
-    <figure>
-        <img src="./imagens/banner.png" alt="Banner">
-    </figure>
+
 </body>
 </html>

@@ -1,18 +1,23 @@
 body{
-    background-color: rgb(177, 85, 85);
-    text-align: center;
+    background-color: #f2e3c6;
 }
 
 .btn-voltar{
-    margin-left: -95%;
     margin-bottom: 15px;
 }
 
 .btnCadastrar{
-    margin-top: 15px;
-    margin-left: -92.5%;
-    background-color: rgb(217, 238, 238);
-    font-size: 15px;
+    margin-top: 35px;
+    background-color: rgb(164, 197, 197);
+    font-size: 18px;
     width: 95px;
     height: 33px;
+    border-radius: 4px;
+    font-family: 'Roboto';
+}
+
+.tabela{
+    background-color: #e7eed0;
+    padding: 25px;
+    border-radius: 10px;
 }
